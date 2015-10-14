@@ -1,9 +1,9 @@
 # Site settings
-title:              Portfolio Template
-email:              your-email@domain.com
-description:        "Portfolio template for students in the MSR program at Northwestern University"
+title:              So You Like to Build Robots
+email:              alanhong2016@u.northwestern.edu
+description:        "Portfolio of Alan Hong, student of the Master of Science in Robotics program at Northwestern University"
 url:                "http://localhost:4000"
-baseurl:            /msr-student-template
+baseurl:            /alanhong_automaton
 
 # File structure settings
 image_path:         /public/images
