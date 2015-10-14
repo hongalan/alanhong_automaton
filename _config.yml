@@ -3,7 +3,7 @@ title:              So You Like to Build Robots
 email:              alanhong2016@u.northwestern.edu
 description:        "Portfolio of Alan Hong, student of the Master of Science in Robotics program at Northwestern University"
 url:                "http://localhost:4000"
-baseurl:            "/alanhong_automaton"
+baseurl:            /msr-student-template
 
 # File structure settings
 image_path:         /public/images
