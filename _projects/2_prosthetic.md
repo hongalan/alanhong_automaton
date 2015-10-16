@@ -15,6 +15,5 @@ The model was made in SolidWorks and was directly based on my ring finger. This 
 
 ### Result
 
-The prosthetic seen in the image was printed using SLA through Shapeways to preserve fine detaill such as the holes. 
-    [It's operation can be seen here.] (http://youtu.be/2M4D51JSuOw Video)
+The prosthetic seen in the image was printed using SLA through Shapeways to preserve fine detaill such as the holes. [It's operation can be seen here.](http://youtu.be/2M4D51JSuOw "Video")
 
