@@ -1,33 +1,20 @@
 ---
 layout: project
-title: Frenchie
+title: 3D Printable Prostheses
 date: October 15, 2015
 image: http://hongalan.github.io/alanhong_automaton/public/images/honhon.png
 ---
 
-## Overview
-Kuutar, kallis, taivon tytär.
-Kuule kutsu kuuliaisen,
-vaikerruksen vaivalloisen,
-hädan huuto muilta mailta,
-kaukaa kotokankahilta.
+## Background
 
-Hopeainen hohto heitä,
-viereen valo valkiainen,
-Ettei surma suohon syokse,
-Jottei hiisi hautaan hae.
+I started this project because my friend had lost part of his ring finger in an accident. I had been following the work of the e-NABLE community for a few months and decided that I could use my engineering background to help. After sharing it with my friend, I decided to share it with the e-NABLE community. During this time, I attended R&D sessions and volunteered to contribute designs.
 
-Jääkoon surut surematta,
-Tuonen tuvat tuntematta.
+### Process
 
-### Topic 1
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+The model was made in SolidWorks and was directly based on my ring finger. This was done by importing images of the finger from several perspecties and generating the lofted body from cross-sectional profiles. While designing the model, I prioritized an organic appearance, smooth operation, and a low profile.
 
-### Topic 2
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+### Result
 
-### Topic 3
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+The prosthetic seen in the image was printed using SLA through Shapeways to preserve fine detaill such as the holes. 
+    [It's operation can be seen here.] (http://youtu.be/2M4D51JSuOw Video)
 
-### Topic 4
-Quod etiam pri ea, habemus electram ea eos, propriae insolens ea qui. Pro no mollis vituperatoribus. Augue quando delicatissimi ex per, vel ea vidisse dolorem eleifend. Has te aliquid senserit, reque soleat sed ea. At bonorum facilisis disputando est, error tantas appetere nec te. Mel in nobis animal.
