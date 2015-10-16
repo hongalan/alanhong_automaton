@@ -1,8 +1,8 @@
 ---
 layout: project
 title: 3D Printable Prostheses
-date: October 15, 2015
-image: http://hongalan.github.io/alanhong_automaton/public/images/honhon.png
+date: October 2014
+image: http://hongalan.github.io/alanhong_automaton/public/images/Prosthetic.jpg
 ---
 
 ## Background
